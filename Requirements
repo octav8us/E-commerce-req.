@@ -1,4 +1,32 @@
-Requirements: 
-1
-2 - the customer should be able to pay with credit card or on arrival of the shipment  
-3
+	
+         Project overview:
+
+            The project is e-commerce of type B2C where any customer can buy from any traders (business) on the website,  
+            it would organize the payment and the shipping of it. It would also connect the users to the customer service to report any problems.
+            
+
+          Project requirements:
+
+              1 – The website connects customers with traders and the shipping company. 
+
+              2 -  Home page would contain a lists of suggested items based on each person cookies and profile.
+
+              3 - It would have also Business-side view that would show the items they selling and the progress of each item.
+
+              4 – Customer would be able to buy anything and pay for it on arrival (cash) or by  e-wallets - Visa Card - Master Card.  
+
+              5 - Traders can’t add items to the website without being accepted by the admin.
+
+              6 – There is a customer service chat that can be accessed  easily. 
+
+              7 – The customer service  representative  should be able to cancel any order at any stage , pay refunds or special amounts as apologize when problems happen to customer.
+
+              8 -  Dark mode.
+
+              9 - Search bar with all reasonable filters (sizes for clothes , area for screens ...etc).
+
+              10 - Cart, wish-list and check-out.
+
+              11 – Arabic and English support.
+
+ 
